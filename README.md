@@ -121,3 +121,10 @@ All stages, from data exploration to advanced model tuning and evaluation, are t
 During the initial phase, we encountered technical challenges that prevented us from completing all planned experiments before the report deadline. Rather than delay the project, we proceeded with our best available analysis while prioritizing a proper implementation.
 
 The current code reflects this completed work, including the primary fine-tuned model that proved most effective. While the report discusses two model variants for comparison, we’ve focused the release on the more stable implementation for clarity. The methodology remains consistent throughout, and we’ve ensured the final code properly reflects our intended approach.
+
+## 📫 Contact & Portfolio
+
+- **LinkedIn:** [https://www.linkedin.com/in/asfandiyar-safi-a8680b1bb/](https://www.linkedin.com/in/asfandiyar-safi-a8680b1bb/)  
+- **Email:** safi.asfnd@gmail.com  
+- **Portfolio / GitHub:** [https://github.com/AsfandiyarSafi](https://github.com/AsfandiyarSafi)
+
